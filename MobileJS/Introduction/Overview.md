@@ -8,7 +8,7 @@ documentation: ug
 ---
 
 
-# Overview
+# Overview of Mobile js
 
 Syncfusion Essential JavaScript Studio for Mobile is emerged as a powerful combination of both HTML and jQuery based widget package that provides several number of widgets very similar to the jQuery plug-in style, so that the same jQuery-like syntax can be followed in every actions.
 
